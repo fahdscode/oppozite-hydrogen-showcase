@@ -9,6 +9,16 @@
 
 ---
 
+## Screenshots
+
+![Products](oppozite-products.png)
+
+![Brand](oppozite-brand.png)
+
+![Product Page](oppozite-product.png) 
+
+---
+
 ## Overview
 
 Oppozite Hydrogen is a headless ecommerce storefront built on Shopify's [Hydrogen](https://hydrogen.shopify.dev/) framework. It separates the storefront from the Shopify backend, giving full control over UX and performance while keeping Shopify's commerce infrastructure.
